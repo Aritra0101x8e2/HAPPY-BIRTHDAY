@@ -1,5 +1,4 @@
 body {
-	/*background-color: #FFDAB9;	*/
 	background-color: #000;
 	-webkit-transition:background-color linear 5s;
 	-moz-transition:background-color linear 5s;
@@ -22,7 +21,6 @@ body {
 	-ms-animation:peach_alive linear 8s infinite;
 	animation:peach_alive linear 8s infinite;
 }
-
 @-webkit-keyframes peach_alive {
 	0%{
 		background-color: #ff4bd8;
